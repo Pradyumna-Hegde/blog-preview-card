@@ -1,0 +1,45 @@
+:root {
+  --clr-primary: #f4d04e;
+  --clr-secondary: #fff;
+  --clr-tertiary-500: #6b6b6b;
+  --clr-tertiary-950: #111111;
+
+  /* Typography */
+  --ff-base: "Figtree", sans;
+
+  --fw-500: 500;
+  --fw-800: 800;
+
+  --fs-lg: 1.5rem; /* 16px */
+  --fs-base: 1rem; /* 16px */
+  --fs-sm: 0.875rem; /* 14px */
+
+  --line-height: 150%;
+  --letter-spacing: 0px;
+
+  /* Spacing (Padding and Margin) */
+  --space-300: 24px;
+  --space-150: 12px;
+  --space-100: 8px;
+  --space-50: 4px;
+
+  /* Box shadow */
+  --box-shadow: 8px 8px 0 0 Black;
+  --border-radius: 20px;
+
+  /* Customized variables according to project's need */
+  --clr-body-background: var(--clr-primary);
+  --clr-card-background: white;
+  --clr-tag-background: var(--clr-primary);
+  --clr-time-background: var(--clr-tertiary-950);
+  --clr-primary-heading: var(--clr-tertiary-950);
+  --clr-description: var(--clr-tertiary-500);
+  --clr-author-name: var(--clr-tertiary-950);
+
+  --fw-base: var(--fw-500);
+  --fw-bold: var(--fw-800);
+
+  --card-padding: var(--space-300);
+  --card-min-width: 20.4735rem; /* 327px */
+  --card-width: 24rem; /* 384px */
+}
