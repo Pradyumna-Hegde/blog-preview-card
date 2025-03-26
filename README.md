@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog preview card solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-html-and-css-6t2_KC1D6U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Blog preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-html-and-css-6t2_KC1D6U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
